@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="textview_title">Player 1 Turn</string>
+</resources>
